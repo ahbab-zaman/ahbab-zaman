@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">✨ Creating web application since ...2023<br>📚 I'm currently learning mongoDB & NodeJS<br>🎯 Goals: Professional Web-Developer<br>🎲 Fun fact: I like to sleep while coding😁</p>
+<p align="left">✨ Creating web application since ...2023<br>📚 I'm currently learning Next JS<br>🎯 Goals: Professional Web-Developer<br>🎲 Fun fact: I like to sleep while coding😁</p>
 
 ###
 
