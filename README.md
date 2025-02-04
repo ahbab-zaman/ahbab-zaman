@@ -52,7 +52,6 @@
 
 <div align="left">
  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blueviolet?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahbab-zaman-6398b6345)
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
 </div>
 
 ###
