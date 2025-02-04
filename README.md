@@ -54,6 +54,9 @@
  <a href="https://www.linkedin.com/in/ahbab-zaman-6398b6345" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blueviolet?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
 </a>
+<a href="https://www.facebook.com/profile.php?id=100015172482884&mibextid=ZbWKwL" target="_blank">
+    <img src="https://img.shields.io/badge/-Facebook-blueviolet?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+</a>
 
 </div>
 
