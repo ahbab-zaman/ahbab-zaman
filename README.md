@@ -12,7 +12,7 @@
 
 ###
 
-<h4 align="left">Front-end Developer </>💻</h4>
+<h2 align="left">Frontend Developer</>💻</h2>
 
 ###
 
