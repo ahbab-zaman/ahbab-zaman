@@ -51,7 +51,7 @@
 ###
 
 <div align="left">
-  [![Linkedin Badge](https://img.shields.io/badge/-ahbabzaman?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imsivram1999/)](https://www.linkedin.com/in/ahbab-zaman-6398b6345)
+  [![Linkedin Badge](https://img.shields.io/badge/-ahbabzaman?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahbab-zaman-6398b6345)](https://www.linkedin.com/in/ahbab-zaman-6398b6345)
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
 </div>
 
