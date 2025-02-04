@@ -51,7 +51,7 @@
 ###
 
 <div align="left">
- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blueviolet?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahbab-zaman-6398b6345)
+ [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blueviolet?style=flat-square&logo=linkedin&logoColor=whitelink=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/ahbab-zaman-6398b6345)
 </div>
 
 ###
