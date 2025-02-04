@@ -51,7 +51,10 @@
 ###
 
 <div align="left">
- [![Linkedin Badge](logo=linkedin&logoColor=whitelink=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/ahbab-zaman-6398b6345)
+ <a href="https://www.linkedin.com/in/ahbab-zaman-6398b6345" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blueviolet?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+</a>
+
 </div>
 
 ###
