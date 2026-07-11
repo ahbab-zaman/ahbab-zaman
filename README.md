@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img width="100%" height="200" src="https://i.ibb.co.com/dJwpCQZ2/gitbanner.png"  />
+  <img width="100%" height="200" src="https://i.ibb.co.com/6cnJVQKq/my-banner-Photo-Grid.png" alt="my-banner-Photo-Grid">
 </div>
 
 ###
