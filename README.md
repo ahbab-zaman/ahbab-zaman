@@ -2,7 +2,7 @@
 
 ###
 
-<h2 data-importer="text" align="left">Hi 👋! My name is Ahbab and I'm a Full Stack Developer from Bangladesh</h2>
+<h2 data-importer="text" align="left">Hi 👋! My name is Ahbab and I'm a Full Stack Engineer from Bangladesh</h2>
 
 ###
 
